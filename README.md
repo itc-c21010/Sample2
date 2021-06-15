@@ -1,11 +1,11 @@
-1 # 初めてのGithub
-2 itc-c21010 大川翔太
-3 https://github.com/itc-c21010/Sample2
-4 
-5 ## ローカルリポジトリ
-6　お好み焼きレシピ
-7　　[okonomi.txt](okonimi.txt)
-8
-9  ## リモートリポジトリ
-10 README.mdを作ってみる
-11 マークダウンを覚える
+# 初めてのGithub
+itc-c21010
+https://github.com/itc-c21010/Sample2
+
+## ローカルリポジトリ
+　*お好み焼きレシピ
+　　[okonomi.txt](okonomi.txt)
+
+## リモートリポジトリ
+*README.mdを作ってみる
+*マークダウンを覚える
